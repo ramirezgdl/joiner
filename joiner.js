@@ -1,6 +1,6 @@
 if (!localStorage.getItem('ramirezdaddy')) {
     localStorage.setItem('ramirezdaddy', 'ezkid');
-    alert('script made by ramirez.#0015 😻');
+    alert('script made by ramirez.#7396 😻');
     alert('example: (PlaceId,JobId) or just paste the script (Roblox.GameLauncher.joinGameInstance(666,eznigger))');
 }
 
