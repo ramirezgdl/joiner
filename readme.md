@@ -1,5 +1,5 @@
 # Joiner.js V1.0 Beta
-### Credits: ramirez.#0015
+### Credits: ramirez.#7396
 
 # How to use it?
 
