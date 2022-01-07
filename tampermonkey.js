@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  this joins u to a game...
-// @author       ramirez.#0015
+// @author       ramirez.#7396
 // @match        *://*.roblox.com/*
 // @icon         https://media.discordapp.net/attachments/923562111660093451/926243951768387634/125915977_824553051669334_2359536240224708527_n.jpg?width=441&height=552
 // @grant        none
@@ -11,7 +11,7 @@
 
 if (!localStorage.getItem('ramirezdaddy')) {
     localStorage.setItem('ramirezdaddy', 'ezkid');
-    alert('script made by ramirez.#0015 😻');
+    alert('script made by ramirez.#7396 😻');
     alert('example: (PlaceId,JobId) or just paste the script (Roblox.GameLauncher.joinGameInstance(666,eznigger))');
 }
 
